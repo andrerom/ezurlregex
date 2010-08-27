@@ -1,4 +1,4 @@
-eZUrlRegex Datatype Extension
+eZUrlRegex Datatype Extension for eZ Publish
 Version 1.x by eZ Systems AS / André R.
 ---------------------------------------
 This datatype extends the normal ezurl datatype by adding support
